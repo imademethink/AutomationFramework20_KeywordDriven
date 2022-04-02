@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="263a69d1-62db-45eb-b8a4-cd5a8b20a505" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ooxml</find>
+      <find>email</find>
+      <find>@ecom_login</find>
+      <find>hmGlobalData</find>
+      <find>hmGlobalData.put</find>
+      <find>sUrlHome</find>
+      <find>selenium_utility</find>
+      <find>robot_popup_close</find>
+      <find>sikuli</find>
+      <find>keyPress</find>
+      <find>url_javascript_popup</find>
+      <find>url_google_ad</find>
+      <find>Javascript</find>
+      <find>JavascriptExecutor</find>
+      <find>Select</find>
+      <find>Page_VarietyDropdown</find>
+      <find>slee</find>
+      <find>custom_page_actions</find>
+      <find>ExcelDataReaderInit</find>
+      <find>println</find>
+      <find>utilFileHandler</find>
+      <find>hmUserData</find>
+      <find>Ecommerce_data</find>
+      <find>org.apache.commons</find>
+      <find>commons-io</find>
+      <find>enab</find>
+      <find>.close()</find>
+      <find>tag</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>hmExcelRowData</replace>
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="75" />
+    <option name="width" value="1705" />
+    <option name="height" value="925" />
+  </component>
+  <component name="ProjectId" id="1khahzYwgH79iIMKxi7ChhAtRgv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework18_TestNG_Maven\napstermusic\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pkg_testrunner" />
+      <recent name="pkg_TCProcessor" />
+      <recent name="pkg_global" />
+      <recent name="pkg_FixtureProcessor" />
+      <recent name="pkg_pageobject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework20_KeywordDriven\napstermusic\src\test\java\pkg_utility" />
+      <recent name="D:\TonyStark\Framework20_KeywordDriven\napstermusic\src\test\java" />
+      <recent name="D:\TonyStark\Framework20_KeywordDriven\napstermusic\src\test\resources" />
+      <recent name="D:\TonyStark\Framework19_DataDriven\napstermusic\src\test\resources\externalData" />
+      <recent name="D:\TonyStark\Framework19_DataDriven\napstermusic\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.napstermusic_notag">
+    <configuration name="napstermusic_notag" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="napstermusic_tag" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtag=payment" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="testng_xml_no_tag" type="TestNG">
+      <module name="napstermusic" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testng_xml_tag" type="TestNG" temporary="true">
+      <module name="napstermusic" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-Dtag=payment" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.napstermusic_notag" />
+      <item itemvalue="Maven.napstermusic_tag" />
+      <item itemvalue="TestNG.testng_xml_no_tag" />
+      <item itemvalue="TestNG.testng_xml_tag" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.testng_xml_tag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="263a69d1-62db-45eb-b8a4-cd5a8b20a505" name="Default Changelist" comment="" />
+      <created>1594327071720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594327071720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 22h 40m 12s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 22h 41m 31s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 22h 42m 41s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 22h 47m 57s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 22h 53m 22s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 22h 55m 14s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 22h 58m 15s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 23h 00m 20s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 23h 03m 18s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework20_KeywordDriven_napstermusic_testng_xml - 2020.07.26 at 23h 05m 29s.xml">
+      <configuration name="D:/TonyStark/Framework20_KeywordDriven/napstermusic/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="192" key="#Notifications" timestamp="1606155853499">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="450" y="192" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1606155853499" />
+    <state x="449" y="235" key="#Updates" timestamp="1606155870182">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="449" y="235" key="#Updates/0.0.1366.738@0.0.1366.738" timestamp="1606155870182" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>exlWorkBook</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.getProperty(&quot;user.dir&quot;) + sKDDexcelpath.replace(&quot;.xlsx&quot;,&quot;_new.xlsx&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>aryLstTCid.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hmGlobalData.get(&quot;url_home&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
